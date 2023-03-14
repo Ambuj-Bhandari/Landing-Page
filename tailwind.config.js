@@ -9,6 +9,10 @@ module.exports = {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    fontFamily:{
+      displayHead:['Alegreya SC', 'serif'],
+      displayCont:['Montserrat', 'sans-serif']
+    },
     extend: {},
   },
   plugins: [],
