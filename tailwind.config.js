@@ -15,5 +15,8 @@ module.exports = {
     },
     extend: {},
   },
+  images: {
+    domains: ["mdbcdn.b-cdn.net"]
+  },
   plugins: [],
 }
